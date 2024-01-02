@@ -2,4 +2,5 @@ CREATE TABLE PERSON_123
 (
    F_NAME VARCHAR
   ,L_NAME VARCHAR
+  ,age varchar(1)
 );
