@@ -1,0 +1,6 @@
+CREATE TABLE EMP_123
+(
+   F_NAME VARCHAR
+  ,L_NAME VARCHAR
+  ,age varchar(1)
+);
